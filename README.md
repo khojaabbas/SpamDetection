@@ -56,6 +56,12 @@ streamlit run src/spam_app.py
 
 Open the URL shown in the terminal (usually `http://localhost:8501`) and enter one or more messages to classify.
 
+## Live Demo
+
+A live version of this app is available at:
+
+https://share.streamlit.io/khojaabbas/SpamDetection/main/src/spam_app.py
+
 ## Notes
 
 - The app accepts multiple messages separated by new lines.
